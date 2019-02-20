@@ -47,3 +47,5 @@ I have parts on-order to address all three of these areas.  I hope to have some 
 http://www.scorchworks.com/Blog/spring-loaded-k40-laser-platform/
 
 I should be able to source most of these parts locally, the only one I'm not sure about is the "expanded metal sheet" (although I could probably come-up with an alternative for that).
+
+T
