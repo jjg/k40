@@ -47,3 +47,20 @@ I have parts on-order to address all three of these areas.  I hope to have some 
 http://www.scorchworks.com/Blog/spring-loaded-k40-laser-platform/
 
 I should be able to source most of these parts locally, the only one I'm not sure about is the "expanded metal sheet" (although I could probably come-up with an alternative for that).
+
+
+# 03142019
+
+I'm doing a bad job maintaining this journal.
+
+Since the last post I've installed a larger-capacity exaust fan and a cheap air assist.  This combination makes a big difference.  The air assist is essentially an aquarium air pump connected to a sportsball inflation needle, held in place by a 3d-printed collar mounted on the laser head.  This works surprisingly well, but I'd like to do a better job of keeping things in place and managing the air hose.  I also think that the system could benefit from a better air pump, so I'm on the lookout for a suitable replacement.
+
+I think the exaust is good, but I ended-up using a piece of plastic 4" hose for one section and I think I'm going to replace that with aluminum like the rest of the system.
+
+The cooling system is holding up but the pump has become louder and I'm expecting it to fail at some point.  I need to get a replacement so I have something on-hand when that happens, and I should really get some sort of automated shut-down setup in the event of a cooling failure, but at the moment I'm not sure if there's a simple/cheap way to accomplish this.
+
+I also picked up an ammeter so I can accurately measure the current going to the laser.  This is essential to prevent overdriving the tube.  I haven't installed this yet because it's going to be messy (I need to cut holes in the control panel to mount it) and I'm using low enough power levels that I shouldn't be getting anywhere near overdriving the tube.  I'm also in te middle of a project and I don't want to break the thing before we finish.
+
+Speaking of this project, it's an engraving project and I've managed to find some settings that work very well for raster engraving bamboo cutting boards.  Surprisingly fast and low power, and engraves well without a lot of smoke, charing, etc.  I've started a new page on jasongullickson.com to document the working feeds & speeds that I come across for various materials.
+
+I also took a swing at cutting some 3mm baltic birch plywood.  I've only tried a few settings but found that 10mm/s at 40% power works well.
