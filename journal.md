@@ -64,3 +64,5 @@ I also picked up an ammeter so I can accurately measure the current going to the
 Speaking of this project, it's an engraving project and I've managed to find some settings that work very well for raster engraving bamboo cutting boards.  Surprisingly fast and low power, and engraves well without a lot of smoke, charing, etc.  I've started a new page on jasongullickson.com to document the working feeds & speeds that I come across for various materials.
 
 I also took a swing at cutting some 3mm baltic birch plywood.  I've only tried a few settings but found that 10mm/s at 40% power works well.
+
+Did a more substantial cutting test with worse results.  On one end of the board the cuts are OK, but they don't go all the way through at the other end.  The most likely cause of this is the bed not being "tram" with the laser head, so I'm going to hold-off on trying to improve cutting until I get a better bed in place.
